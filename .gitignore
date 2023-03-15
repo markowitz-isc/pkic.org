@@ -5,3 +5,6 @@ static/_pagefind
 # Ignore hugo itself when located here
 hugo
 hugo.*
+/PKIC Website Manual.pdf
+/*.lock
+/assets/images/members/isc/*.ai
