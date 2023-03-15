@@ -8,3 +8,4 @@ hugo.*
 /PKIC Website Manual.pdf
 /*.lock
 /assets/images/members/isc/*.ai
+/*.url
